@@ -1,0 +1,6 @@
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\DTO\bin\Debug\DTO.dll
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\DTO\bin\Debug\DTO.pdb
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\DTO\obj\Debug\DTO.dll
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\DTO\obj\Debug\DTO.pdb

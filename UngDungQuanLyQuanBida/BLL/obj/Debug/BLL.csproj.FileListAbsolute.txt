@@ -1,0 +1,11 @@
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\BLL\bin\Debug\BLL.dll
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\BLL\bin\Debug\BLL.pdb
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\BLL\bin\Debug\DAL.dll
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\BLL\bin\Debug\DTO.dll
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\BLL\bin\Debug\DAL.pdb
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\BLL\bin\Debug\DTO.pdb
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\BLL\obj\Debug\BLL.dll
+D:\Projects\AppDestop_UngDungQuanLyQuanBida\UngDungQuanLyQuanBida\BLL\obj\Debug\BLL.pdb
